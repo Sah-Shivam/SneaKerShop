@@ -1,5 +1,5 @@
 # SneaKerShop
-Welcome to online Sneakers Shop is now Available on your One Click.(Fully Responsive)
+Welcome to online Sneakers Shop is now Available on your one Click.(Fully Responsive)
 
 
 1.Preview(01)
